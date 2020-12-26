@@ -8,7 +8,7 @@ How to run the code?
 •	Run all the.*creation.sql in postgreSQL to create all the tables
 •	Run query.sql to alter and update tables.
 •	Open QGIS, connect QGIS to postgreSQL
-•	 Load vector layers from postgreSQL
+•	Load vector layers from postgreSQL
 
 The data in this project are obtained from :
 data.gov.ie
