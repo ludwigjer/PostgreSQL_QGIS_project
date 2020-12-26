@@ -25,4 +25,9 @@ overpass-turbo
 Openstreetmap
 
 ![](img/Dublin%20Hospital%20Distribution%20and%20Density%20Map.jpg)
-
+![](img/Dublin%20Fire%20Station%20Distribution%20and%20Density%20Map.jpg)
+![](img/Dublin%20Industrial%20Buildings%20Distribution%20and%20Density%20Map.jpg)
+![](img/Dublin%20Industrial%20Buildings%20Vs%20Hospital%20Distribution%20and%20Density.jpg)
+![](img/Dublin%20Industrial%20Buildings%20Vs%20Fire%20Stations%20Distribution%20and%20Density.jpg)
+![](img/Dublin%20Industrial%20Buildings%20to%20The%20Nearest%20Fire%20Station%20Distances(Meter)%20Map.jpg)
+![](img/Dublin%20Industrial%20Buildings%20Vs%20Doctor%20%26Clinic%20Distribution%20%26%20Density%20Heat%20Map2.jpg)
