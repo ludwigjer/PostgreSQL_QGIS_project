@@ -24,5 +24,5 @@ overpass-turbo
 
 Openstreetmap
 
-![](img/Dublin20%Hospital20%Distribution20%and20%Density20%Map.jpg)
+![](img/Dublin%20Hospital%20Distribution%20and%20Density%20Map.jpg)
 
